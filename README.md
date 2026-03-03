@@ -1,4 +1,6 @@
-### Headings (Markdown supports 6 levels of heading)
+# Markdown Practice
+
+## Headings (Markdown supports 6 levels of heading)
 
 # Heading 1
 ## Heading 2
@@ -9,13 +11,14 @@
 
 ---
 
-### Emphasis
+## Emphasis
 **bold**
+
 *italic*
 
 ---
 
-### List
+## List
 - Item 1
 - Item 2
   - Subitem 2a
@@ -23,43 +26,48 @@
 
 ---
 
-### Ordered List
+## Ordered List
 1. First
 2. Second
 3. Third
 
 ---
 
-### Table
-| Name     | Role       |
-|----------|------------|
-| Alice    | Developer  |
-| Bob      | Designer   |
+## Table
+| Name  | Role      |
+|-------|-----------|
+| Alice | Developer |
+| Bob   | Designer  |
 
 ---
 
-### Checklist
+## Checklist
 - [x] Learn Markdown basics
 - [ ] Practice formatting 
 - [ ] Create your own README
 
 ---
 
-### Horizontal Rules
+## Horizontal Rules
+
 Using Dashes
 
 ---
+
 Using Asterisk
+
 ***
+
 Using Underscore
+
 ___
 
 ---
 
-### Links
+## Links
 [GitHub](https://github.com)
 
 ---
 
-### Image
+## Image
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
