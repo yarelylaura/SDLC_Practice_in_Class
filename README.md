@@ -1,4 +1,4 @@
-### Headings (Markdown support 6 levels og heading)
+### Headings (Markdown supports 6 levels of heading)
 
 # Heading 1
 ## Heading 2
@@ -18,8 +18,8 @@
 ### List
 - Item 1
 - Item 2
-  -Subitem 2a
-  -Subitem 2b
+  - Subitem 2a
+  - Subitem 2b
 
 ---
 
@@ -31,10 +31,10 @@
 ---
 
 ### Table
-| Name     | Role
-|----------|-----------|
-| Alice    | Developer |
-| Bob      | Designer  |
+| Name     | Role       |
+|----------|------------|
+| Alice    | Developer  |
+| Bob      | Designer   |
 
 ---
 
@@ -46,20 +46,20 @@
 ---
 
 ### Horizontal Rules
-Using Dashs
+Using Dashes
 
 ---
 Using Asterisk
 ***
 Using Underscore
-____
+___
 
 ---
 
 ### Links
-[GitHub] (https://github.com)
+[GitHub](https://github.com)
 
 ---
 
 ### Image
-! [Markdown Logo] (https://markdown-here.com/img/icon256.pnp)
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
